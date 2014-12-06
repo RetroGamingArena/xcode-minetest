@@ -24,5 +24,13 @@
             </PersistentString>
          </PersistentStrings>
       </ContextState>
+      <ContextState
+         contextName = "MyEventReceiver::OnEvent(irr::SEvent const&amp;):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "event.LogEvent.Text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
    </ContextStates>
 </VariablesViewState>

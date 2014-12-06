@@ -10,6 +10,8 @@
 	<string>minetest</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>5762E064E6721A5BB29330D7BDAC06601B687207</key>
+		<string>https://github.com/RetroGamingArena/xcode-minetest.git</string>
 		<key>BF271896E35BCAF6D120965D6B355D23F5482283</key>
 		<string>https://github.com/RetroGamingArena/minetest.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>minetest.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>BF271896E35BCAF6D120965D6B355D23F5482283</key>
+		<key>5762E064E6721A5BB29330D7BDAC06601B687207</key>
 		<string>../..</string>
+		<key>BF271896E35BCAF6D120965D6B355D23F5482283</key>
+		<string>../../../minetest</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/RetroGamingArena/minetest.git</string>
+	<string>https://github.com/RetroGamingArena/xcode-minetest.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BF271896E35BCAF6D120965D6B355D23F5482283</string>
+	<string>5762E064E6721A5BB29330D7BDAC06601B687207</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>BF271896E35BCAF6D120965D6B355D23F5482283</string>
 			<key>IDESourceControlWCCName</key>
 			<string>minetest</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5762E064E6721A5BB29330D7BDAC06601B687207</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xcode-minetest</string>
 		</dict>
 	</array>
 </dict>
